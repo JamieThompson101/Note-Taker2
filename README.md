@@ -44,6 +44,14 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
+## Screenshots of the deployed application:
+
+![notetaker](https://github.com/JamieThompson101/Note-Taker2/assets/130515437/10aecca2-2c4c-4e4c-b955-8c84f4b5a550)
+
+
+![notetaker2](https://github.com/JamieThompson101/Note-Taker2/assets/130515437/564d0d1e-a714-4767-b464-3772aa007dbc)
+
+
 ## Website link:
 
 
