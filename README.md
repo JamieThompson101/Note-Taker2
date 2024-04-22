@@ -50,4 +50,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Questions:
 
-If you have any questions regarding this application, or anything else, please contact me via my (github)[https://github.com/JamieThompson101]
+If you have any questions regarding this application, or anything else, please contact me via my [github](https://github.com/JamieThompson101)
