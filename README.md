@@ -1,9 +1,22 @@
-# Note Taker Starter Code
+# Express.js: Note Taker
+
+## Description:
+
+This application was created with the purpose of broadening my skills with express.js. 
+
+This application is able to save and delete notes depending on the users' need.
+
+As I worked on this application, I was able to familiarize myself with heroku as a whole and the importance of connecting front end and back end code in applcations.
+
+## User Story:
+
 AS A small business owner
 
 I WANT to be able to write and save notes
 
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
+## Acceptance criteria:
 
 GIVEN a note-taking application
 
@@ -30,3 +43,11 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
+
+## Website link:
+
+
+
+## Questions:
+
+If you have any questions regarding this application, or anything else, please contact me via my [github](https://github.com/JamieThompson101)
