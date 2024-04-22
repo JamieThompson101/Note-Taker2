@@ -52,9 +52,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![notetaker2](https://github.com/JamieThompson101/Note-Taker2/assets/130515437/564d0d1e-a714-4767-b464-3772aa007dbc)
 
 
-## Website link: Click (here)[https://jamiethompson101.github.io/Note-Taker2/]
+## Website link: 
 
-
+Click [here](https://jamiethompson101.github.io/Note-Taker2/)
 
 ## Questions:
 
